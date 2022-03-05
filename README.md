@@ -1,5 +1,4 @@
 # Najiz-Portal
-
 Najiz Portal is on of Ministry of Justice systems which aim to manage all people cases, cases requests and all issues that related to their cases.
 
 Used technologies:
